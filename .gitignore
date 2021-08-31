@@ -1,0 +1,8 @@
+*.dll
+Debug/
+Release/
+x64/
+AIBattle.vcxproj
+AIBattle.vcxproj.filters
+AIBattle.vcxproj.user
+stdafx.h
